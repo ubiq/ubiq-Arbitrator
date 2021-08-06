@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Ubiq RealityETH Arbitrator contract",
   "dependencies": {
-    "ethers": "^5.4.3"
+    "ethers": "^5.4.4"
   },
   "devDependencies": {},
   "author": "Julian Yap",
-  "license": "MIT",
+  "license": "MIT"
 }
